@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="" title="" alt="project logo" width="70px">
+<img src="./public/project-gear-safety-helmet-logo-template-design-for-brand-or-company-and-other-vector.jpg" title="" alt="project logo" width="70px">
 
 # ProjectName
 
@@ -9,8 +9,8 @@
 
 ### What technologies is this site built on?
 
-<img src="" alt="technology" width="60px">
-<img src="" alt="technology" width="60px">
+<img src="./public/react.svg" alt="technology" width="60px">
+<img src="./public/tailwind-css-logo-vector.png" alt="technology" width="60px">
 
 ---
 
