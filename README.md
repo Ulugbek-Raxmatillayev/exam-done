@@ -1,8 +1,26 @@
-# React + Vite
+<div align=center>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="" title="" alt="project logo" width="70px">
 
-Currently, two official plugins are available:
+# ProjectName
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<!-- Site Info -->
+#### Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam ex fugiat aspernatur hic! Rem voluptatibus corrupti possimus rerum sint nobis ratione maiores, dolor eveniet eius. Enim dignissimos ea quos autem? 
+
+### What technologies is this site built on?
+
+<img src="" alt="technology" width="60px">
+<img src="" alt="technology" width="60px">
+
+---
+
+<!-- BANNER  -->
+<img src= "./.github/" alt="site banner">
+
+</div>
+
+<div align="right">
+
+### [Markdown Senior](https://github.com/jasurhaydarovcode)
+
+</div>
