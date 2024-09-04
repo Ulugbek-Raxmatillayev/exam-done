@@ -10,7 +10,7 @@
 ### What technologies is this site built on?
 
 <img src="./public/react.svg" alt="technology" width="60px">
-<img src="./public/tailwind-css-logo-vector.png" alt="technology" width="60px">
+<img src="./public/vite.svg" alt="technology" width="60px">
 
 ---
 
